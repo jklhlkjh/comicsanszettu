@@ -1,0 +1,18 @@
+{
+  "spec": 1,
+  "name": "Comic Sans MS",
+  "previewText": "The quick brown fox jumps over the lazy dog.",
+  "main": {
+    "ggsans-Normal": "https://github.com/antimatter15/doge/raw/refs/heads/master/Comic%20Sans%20MS.ttf",
+    "ggsans-Medium": "https://github.com/antimatter15/doge/raw/refs/heads/master/Comic%20Sans%20MS.ttf",
+    "ggsans-Semibold": "https://github.com/antimatter15/doge/raw/refs/heads/master/Comic%20Sans%20MS%20Bold.ttf",
+    "ggsans-Bold": "https://github.com/antimatter15/doge/raw/refs/heads/master/Comic%20Sans%20MS%20Bold.ttf",
+    "ggsans-ExtraBold": "https://github.com/antimatter15/doge/raw/refs/heads/master/Comic%20Sans%20MS%20Bold.ttf",
+
+    "NotoSans-Normal": "https://github.com/antimatter15/doge/raw/refs/heads/master/Comic%20Sans%20MS.ttf",
+    "NotoSans-Medium": "https://github.com/antimatter15/doge/raw/refs/heads/master/Comic%20Sans%20MS.ttf",
+    "NotoSans-Semibold": "https://github.com/antimatter15/doge/raw/refs/heads/master/Comic%20Sans%20MS%20Bold.ttf",
+    "NotoSans-Bold": "https://github.com/antimatter15/doge/raw/refs/heads/master/Comic%20Sans%20MS%20Bold.ttf",
+    "NotoSans-ExtraBold": "https://github.com/antimatter15/doge/raw/refs/heads/master/Comic%20Sans%20MS%20Bold.ttf"
+  }
+}
